@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+asyncpg
+psycopg2-binary
+python-dotenv
+pydantic
+passlib[bcrypt]
+pytest
+pytest-asyncio
+httpx

@@ -1,0 +1,1 @@
+pip install faker sqlalchemy asyncpg psycopg2-binary uvicorn fastapi dotenv pydantic[email] passlib python-jose python-multipart	
